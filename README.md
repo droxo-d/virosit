@@ -46,8 +46,7 @@ The author disclaims all liability for improper use.
 # 📜 License
 Distributed under MIT License
 
-# CREDITS TO:
-- Orwa & dRoxo
-- This Tool is also called virustotalx version 2.0 https://github.com/orwagodfather/virustotalx
+# 🕵️ IMPROVED VERSION of virustotalx
+- This Tool is also called virustotalx version 2.0 of https://github.com/orwagodfather/virustotalx
 
   
