@@ -1,3 +1,6 @@
+# 🧠 What is virosit?
+
+
 # 💀 PRE-REQUISITE ⚠︎
 1. Create 3 Virus Total Accounts & Get 3 API-KEYs
    
@@ -35,5 +38,9 @@ The author disclaims all liability for improper use.
 
 # 📜 License
 Distributed under MIT License
+
+# CREDITS TO:
+- Orwa & dRoxo
+- This Tool is also called virustotalx version 2.0 https://github.com/orwagodfather/virustotalx
 
   
