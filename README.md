@@ -1,6 +1,6 @@
 # virosit 🔍 | Advanced Domain Enumeration, Unleashed.
 
-Supercharge your recon with virosit, the turbo-charged successor to VirusTotalX (v2.0). Go beyond basics and automatically unearth a target's full attack surface: subdomains 🌐, IP addresses 🖥️, and undetected URLs 🔓.
+Supercharge your recon with virosit, the turbo-charged successor to virustotalx (v2.0). Go beyond basics and automatically unearth a target's full attack surface: subdomains 🌐, IP addresses 🖥️, and undetected URLs 🔓.
 
 The ultimate tool for uncovering what others miss.
 
@@ -21,7 +21,7 @@ fi
   chmod +x virosit.sh
   ./virosit.sh
 
-===> HOW TO WANNA RUN IT ON A SINGLE DOMAIN like google.com?
+===> HOW TO RUN IT ON A SINGLE DOMAIN like google.com?
   ./virosit.sh example.com
   EXAMPLE:
   ./virosit.sh google.com
@@ -31,8 +31,12 @@ fi
   EXAMPLE: ./virosit.sh domains.txt
 
 NB: The output file is automatically generated and saved in your currect working directory
+NB: if it is a single domain enumeration process on example.com, the output file will be example_VirusTotal.txt
+NB: if you are using a file of domains, all their results will be saved in VirusTotal_Results.txt
 
-# OUTPUT EXAMPLE
+# 👀 OUTPUT EXAMPLE
+<img width="1898" height="936" alt="Capture d'écran 2025-08-27 211836" src="https://github.com/user-attachments/assets/5b5327dd-c782-4c84-89c2-b6a55fa109ef" />
+
 
 # ⚠️ LEGAL DISCLAIMER
 This tool is intended for educational, research and authorized testing purposes only.
