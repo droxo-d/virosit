@@ -22,17 +22,17 @@ fi
   ./virosit.sh
 
 ===> HOW TO RUN IT ON A SINGLE DOMAIN like google.com?
-  ./virosit.sh example.com
-  EXAMPLE:
-  ./virosit.sh google.com
+  - ./virosit.sh example.com
+  - EXAMPLE:
+  - ./virosit.sh google.com
 
 ===> HOW TO RUN THE SCRIPT ON A FILE CONTAINING DOMAINS ?
-  ./virosit.sh <file>
-  EXAMPLE: ./virosit.sh domains.txt
+  - ./virosit.sh <file>
+  - EXAMPLE: ./virosit.sh domains.txt
 
-NB: The output file is automatically generated and saved in your currect working directory
-NB: if it is a single domain enumeration process on example.com, the output file will be example_VirusTotal.txt
-NB: if you are using a file of domains, all their results will be saved in VirusTotal_Results.txt
+- NB: The output file is automatically generated and saved in your currect working directory
+- NB: if it is a single domain enumeration process on example.com, the output file will be example_VirusTotal.txt
+- NB: if you are using a file of domains, all their results will be saved in VirusTotal_Results.txt
 
 # 👀 OUTPUT EXAMPLE
 <img width="1898" height="936" alt="Capture d'écran 2025-08-27 211836" src="https://github.com/user-attachments/assets/5b5327dd-c782-4c84-89c2-b6a55fa109ef" />
