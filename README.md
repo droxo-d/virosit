@@ -1,13 +1,16 @@
 # 💀 PRE-REQUISITE ⚠︎
 1. Create 3 Virus Total Accounts & Get 3 API-KEYs
+   
 2.  Replace the API-KEY into the script:
-  if [ $api_key_index -eq 1 ]; then
+
+if [ $api_key_index -eq 1 ]; then
     api_key="XXXXXXXXXXXXXX1"
-  elif [ $api_key_index -eq 2 ]; then
+elif [ $api_key_index -eq 2 ]; then
     api_key="XXXXXXXXXXXXXX2"
-  else
+else
     api_key="XXXXXXXXXXXXXX3"
-  fi
+fi
+
 # 😎 HOW TO RUN virosit.sh ?
   chmod +x virosit.sh
   ./virosit.sh
