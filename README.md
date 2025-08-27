@@ -1,5 +1,8 @@
-# 🧠 What is virosit?
+# virosit 🔍 | Advanced Domain Enumeration, Unleashed.
 
+Supercharge your recon with virosit, the turbo-charged successor to VirusTotalX (v2.0). Go beyond basics and automatically unearth a target's full attack surface: subdomains 🌐, IP addresses 🖥️, and undetected URLs 🔓.
+
+The ultimate tool for uncovering what others miss.
 
 # 💀 PRE-REQUISITE ⚠︎
 1. Create 3 Virus Total Accounts & Get 3 API-KEYs
