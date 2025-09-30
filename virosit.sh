@@ -178,11 +178,11 @@ fetch_undetected_urls_for_domainFile() {
   local api_key
 
   if [ $api_key_index -eq 1 ]; then
-    api_key="0897329071435c53bfac1d5566cb16866b4c78eb4452481d5c5621e27e7701ed"
+    api_key=""
   elif [ $api_key_index -eq 2 ]; then
-    api_key="ec5649eb4c9776260b277c1679ae294e070d66bfa5b1fb20ad04a62d19069f32"
+    api_key=""
   else
-    api_key="f9834b87c5b405df03797e44749333716d6303246f311386eee36af2ff49e72b"
+    api_key=""
   fi
 
   local URL="https://www.virustotal.com/vtapi/v2/domain/report?apikey=$api_key&domain=$domain"
@@ -308,4 +308,5 @@ if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
 
   main "$@"
 fi
+
 
